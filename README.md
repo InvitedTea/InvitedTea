@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InvitedTea
 - 👀 I’m interested in #crypto
-- 🌱 I’m currently learning to do a startup
+- 🌱 I am doing a startup
 - 💞️ I’m looking to collaborate on metrics on stablecoins, crypto data and metrics
 - 📫 How to reach me invitedtea@gmail.com
 
